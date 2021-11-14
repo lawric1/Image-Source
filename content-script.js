@@ -18,6 +18,10 @@ searchButton.appendChild(buttomIcon);
 
 function findSource(image) {
     var url = "https://www.google.com/searchbyimage?site=search&sa=X&image_url=" + image;
+    // From Reverse image search results get all images
+    // Compare images with original image searched.
+    // Get link of matching results
+    // Go to link of match with biggest size
 }
 
 
